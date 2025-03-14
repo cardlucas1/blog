@@ -23,7 +23,7 @@ email: l281817@dac.unicamp.br
 description: >- # this means to ignore newlines until "baseurl:"
   Estudante de Ciência da Computação no Instituto de Computação da Unicamp.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cardlucas2.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cardlucas1
 github_username: cardlucas1
 
