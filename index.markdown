@@ -18,4 +18,5 @@ Nascido e criado em [Manaus](https://pt.wikipedia.org/wiki/Manaus/), cidade more
 - [**Me escreva um e-mail**](mailto:l281817@dac.unicamp.br)
 
 ## Interesses
-*Ainda em construção. Tenha calma, pequeno gafanhoto.*
+- Otimização combinatória
+- Teoria dos Grafos
