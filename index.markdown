@@ -7,7 +7,8 @@ permalink: /
 title: Sobre mim
 ---
 
-# Lucas Cardoso Pereira
+> "Não quero ser o que eu não sou; eu não sou maior que o mar." -- Humberto Gessinger
+
 Nascido e criado em [Manaus](https://pt.wikipedia.org/wiki/Manaus/), cidade morena, *Paris dos Trópicos*. Cursei o Ensino Médio em conjunto com o técnico em Informática na [Fundação Matias Machline](https://fundacaomatiasmachline.org.br/) e, posteriormente, iniciei o curso de Ciência da Computação no [Instituto de Computação](https://ic.unicamp.br/) da [Universidade Estadual de Campinas](https://unicamp.br/).
 
 ## Links rápidos
