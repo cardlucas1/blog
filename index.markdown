@@ -15,8 +15,9 @@ Nascido e criado em [Manaus](https://pt.wikipedia.org/wiki/Manaus/), cidade more
 - [Meu perfil no Instagram](https://instagram.com/cardlucas2/)
 - [Meu perfil no GitHub](https://github.com/cardlucas1/)
 - [Meu CV na Plataforma Lattes](http://lattes.cnpq.br/2114813131316096)
-- [**Me escreva um e-mail**](mailto:l281817@dac.unicamp.br)
+- [**Me escreva um e-mail**](mailto:lucas.pereira2@students.ic.unicamp.br)
 
 ## Interesses
 - Otimização combinatória
 - Teoria dos Grafos
+- Educação em computação e informática
